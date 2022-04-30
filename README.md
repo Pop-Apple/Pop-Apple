@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on **Construction Software Developing**
 
-🌱 I’m currently learning **C# & Html**
+🌱 I’m currently learning **C# & Html & Python**
 
 📤 How to reach me **@4pple_kun**
 

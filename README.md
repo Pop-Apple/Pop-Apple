@@ -6,7 +6,7 @@
 
 📤 How to reach me **@4pple_kun**
 
-## ✔ My git Analytics
+## ✔ My Github Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pop-Apple&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 

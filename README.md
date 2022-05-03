@@ -1,10 +1,10 @@
 ## Hi there 👋,  I'm Apple_kun 🍎
 
-🔭 I'm currently working on **Construction Software Developing**
+🔭 I'm currently working on **[Construction Software Developing](https://user-images.githubusercontent.com/101918076/166413780-06a99459-d2c9-4eb9-9226-e5a1d6790da9.jpg)**
 
 🌱 I’m currently learning **C# & Html & Python**
 
-📤 How to reach me **@4pple_kun**
+📤 How to reach me **[@4pple_kun](https://twitter.com/4pple_kun)**
 
 ## ✔ My Github Analytics
 

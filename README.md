@@ -1,6 +1,7 @@
 ## Hi there 👋,  I'm Apple_kun 🍎
 
-🔭 I'm currently working on **[Construction Software Developing](https://user-images.githubusercontent.com/101918076/166413780-06a99459-d2c9-4eb9-9226-e5a1d6790da9.jpg)**
+🔭 I'm currently working on **[Construction Software Developing](https://user-images.githubusercontent.com/101918076/166414164-528d97c9-62a3-4739-bb9a-657bc1021b83.jpg)😁**
+
 
 🌱 I’m currently learning **C# & Html & Python**
 

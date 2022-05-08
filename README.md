@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **C# & Html & Python**
 
-📤 How to reach me **None**
+📤 How to reach me ~~None~~
 
 ## ✔ My Github Analytics
 

@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **C# & Html & Python**
 
-📤 How to reach me **[@4pple_kun](https://twitter.com/4pple_kun)**
+📤 How to reach me **None**
 
 ## ✔ My Github Analytics
 

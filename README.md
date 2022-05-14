@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **C# & Html & Python**
 
-📤 How to reach me ~~None~~
+📤 How to reach me **[Apple_Kun G-Mail](Apple.kun.Play@gmail.com)**
 
 ## ✔ My Github Analytics
 

@@ -2,10 +2,12 @@
 
 🔭 I'm currently working on **[Construction Software Developing](https://user-images.githubusercontent.com/101918076/166414164-528d97c9-62a3-4739-bb9a-657bc1021b83.jpg)😁**
 
-
 🌱 I’m currently learning **C# & Html & Python**
 
 📤 How to reach me **[Apple_Kun](https://mail.google.com/mail/u/0/#inbox)**
+
+## Hobbies ☕
+  <img src="https://cdn.discordapp.com/attachments/795665756129198080/983730029903106088/Pixel_Art_Gif.gif" />
 
 ## ✔ My Github Analytics
 
@@ -15,5 +17,3 @@
 
 ## Languages and Tools 😋
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-### README Created by Pop-Apple

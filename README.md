@@ -7,6 +7,7 @@
 📤 How to reach me **[Apple_Kun](https://mail.google.com/mail/u/0/#inbox)**
 
 ## Let's rest here. ☕
+I'm free to develop applications Help me！🥺
   <img src="https://cdn.discordapp.com/attachments/795665756129198080/983730029903106088/Pixel_Art_Gif.gif" />
 
 ## ✔ My Github Analytics

@@ -30,7 +30,7 @@ using System.Diagnostics;
  * Credit by Pop-Apple
  * [Github](github.com/Pop-Apple)
  */
-namespace Youtube_Media_Downloader
+namespace WindowsFormApplication
 {
     public partial class Main : Form{
         public Main(){

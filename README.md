@@ -1,42 +1,7 @@
-## Hi there 👋,  I'm Apple_kun 🍎
+<p align=center>
 
-🔭 I'm currently working on **[Construction Software Developing](https://user-images.githubusercontent.com/101918076/166414164-528d97c9-62a3-4739-bb9a-657bc1021b83.jpg)😁**
+<img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=nord">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&layout=compact&count_private=true&langs_count=12&hide_border=true&theme=nord">
 
-🌱 I’m currently learning **C# & Html & Python**
-
-📤 How to reach me **[Apple_Kun](https://mail.google.com/mail/u/0/#inbox)**
-
-## Let's rest here. ☕
-I'm free to develop applications Help me！🥺
-
-  <img src="https://cdn.discordapp.com/attachments/795665756129198080/983730029903106088/Pixel_Art_Gif.gif" />
-
-## ✔ My Github Analytics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pop-Apple&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-## Copyright © Pop-Apple's Code 2022 🎮
-````csharp
-using System;
-using System.Drawing;
-using System.Windows.Forms;
-using System.IO;
-using System.Diagnostics;
-/*
- * ░▄▀▀▒█▀▄▒██▀░█▀▄░█░▀█▀░░░██▄░▀▄▀░░▒█▀▄░▄▀▄▒█▀▄░▒░▒▄▀▄▒█▀▄▒█▀▄░█▒░▒██▀
- * ░▀▄▄░█▀▄░█▄▄▒█▄▀░█░▒█▒▒░▒█▄█░▒█▒▒░░█▀▒░▀▄▀░█▀▒░▀▀░█▀█░█▀▒░█▀▒▒█▄▄░█▄▄
- * Credit by Pop-Apple
- * [Github](github.com/Pop-Apple)
- */
-namespace WindowsFormApplication
-{
-    public partial class Main : Form{
-        public Main(){
-            InitializeComponent();
-        }
-}
-````
-## Languages and Tools 😋
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</p>

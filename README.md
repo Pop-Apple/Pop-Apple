@@ -19,9 +19,9 @@ Pop-Apple's Posts
 ### 👀 My Github Stats
 <p align=center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple&show_icons=true&theme=nord">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&show?icons=true&theme=nord">
 
 </p>
 
@@ -32,3 +32,12 @@ Pop-Apple's Posts
 * June 26 - [Youtube Media Downloader](https://github.com/Pop-Apple/Youtube-Media-Downloader)
 * July 2 - [Universal Minecraft Editor Mod++](https://github.com/Pop-Apple/Universal-MC-Editor-Mod-Plus)
 * July 3 - [README](https://github.com/Pop-Apple/Pop-Apple) 
+
+---
+
+### License 🆗
+<p align=left>
+  
+<img src="https://user-images.githubusercontent.com/101918076/177040739-594a814e-2929-40ab-83e6-8f84ec80ebb7.png">
+  
+</p>

@@ -21,7 +21,7 @@ Pop-Apple's Posts
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple&show_icons=true&theme=nord">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&show?icons=true&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&layout=compact&theme=nord">
 
 </p>
 

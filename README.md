@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Pop-Apple 🍎 
+## Hi there I'm Pop-Apple 🤍
 
 Pop-Apple's Posts
 
-* 🔭 I'm currently working on **[Construction Software Developing](https://github.com/Pop-Apple/Pop-Apple/blob/main/image/Construction_Formulation_Calculator.png?raw=true)**
-* 🌱 I’m currently learning **C# and C++**
-* 📤 How to reach me **[Pop-Apple](https://github.com/Pop-Apple)**
+* 🖤 I'm currently working on **[Construction Software Developing](https://github.com/Pop-Apple/Pop-Apple/blob/main/image/Construction_Formulation_Calculator.png?raw=true)**
+* 🤍 I’m currently learning **C# and C++**
+* 🖤 How to reach me **[Pop-Apple](https://github.com/Pop-Apple)**
 
 ---
 
@@ -27,7 +27,7 @@ Pop-Apple's Posts
 
 ---
 
-### License and Badges 💦
+### License and Badges 💬
 <p align=center>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -40,7 +40,7 @@ Pop-Apple's Posts
 
 ---
 
-### Pin Repositories 👑
+### Pin Repositories 🐑
 
 * July 3 - [README](https://github.com/Pop-Apple/Pop-Apple) 
 * July 22 - [Pop-apple.github.io](https://github.com/Pop-Apple/Pop-Apple.github.io)

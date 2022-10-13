@@ -9,12 +9,11 @@ Pop-Apple's Posts
 ---
 
 ### 
-
+<!--
 <p align="center"> 
   <img src="https://github.com/Pop-Apple/Pop-Apple/blob/main/image/Sky%20City.gif?raw=true" />
 </p>
-
----
+-->
 
 ### 👀 My Github Stats
 <p align=center>

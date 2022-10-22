@@ -26,7 +26,7 @@ Pop-Apple's Posts
 
 ---
 
-### Pin Repositories 🐑
+### Pin Repositories
 
 * July 3 - [README](https://github.com/Pop-Apple/Pop-Apple) 
 * July 22 - [Pop-apple.github.io](https://github.com/Pop-Apple/Pop-Apple.github.io)

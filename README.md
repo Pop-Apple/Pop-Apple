@@ -30,5 +30,5 @@ Pop-Apple's Posts
 
 * July 3 - [README](https://github.com/Pop-Apple/Pop-Apple) 
 * July 22 - [Pop-apple.github.io](https://github.com/Pop-Apple/Pop-Apple.github.io)
-* August 3 - [Code-Set-Meal](https://github.com/Pop-Apple/Code-Set-Meal)
+* August 3 - [Code-SetMeal](https://github.com/Pop-Apple/Code-SetMeal)
 * August 6 - [DevkitPro-Cpp-Vault](https://github.com/Pop-Apple/Cpp-Vault)

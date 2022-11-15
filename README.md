@@ -18,9 +18,9 @@ Pop-Apple's Posts
 ### 👀 My Github Stats
 <p align=center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple&show_icons=true&theme=graywhite">
+<img src="https://github-readme-stats.vercel.app/api?username=Pop-Apple&show_icons=true&theme=nord">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&layout=compact&theme=graywhite">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop-Apple&layout=compact&theme=nord">
 
 </p>
 

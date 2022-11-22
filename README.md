@@ -32,3 +32,8 @@ Pop-Apple's Posts
 * July 22 - [Pop-apple.github.io](https://github.com/Pop-Apple/Pop-Apple.github.io)
 * August 3 - [Code-SetMeal](https://github.com/Pop-Apple/Code-SetMeal)
 * August 6 - [DevkitPro-Cpp-Vault](https://github.com/Pop-Apple/Cpp-Vault)
+
+---
+
+#### Profile views
+<img src="https://komarev.com/ghpvc/?username=Pop-Apple">

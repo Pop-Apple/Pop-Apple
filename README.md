@@ -1,5 +1,9 @@
 ## Hi there I'm Pop-Apple 🤍
 
+<!--
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Pop-Apple&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 Pop-Apple's Posts
 
 * 🖤 I'm currently working on **[Construction Software Developing](https://github.com/Pop-Apple/Pop-Apple/blob/main/image/Construction_Formulation_Calculator.png?raw=true)**
